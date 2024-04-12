@@ -1,0 +1,11 @@
+{
+  "sleep": {
+    "file_name": "sleep_train.json"
+  },
+  "sleep_test": {
+    "file_name": "sleep_test.json"
+  },
+  "sleep_validate": {
+    "file_name": "sleep_validate.json"
+  }
+}
